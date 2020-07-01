@@ -1,4 +1,4 @@
-# Load-Test-On-Induction-Motor-Simulated-in-Simulink
+# Load-test-on-three phase-Induction-Motor-simulated-with-Simulink
 
 ## Question
 
